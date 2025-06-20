@@ -30,6 +30,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=shivanshu2109" alt="snake" />
+  <p><em>A little reminder of how laziness can kill determination, just like the snake.</em></p>
 </div>
 
 ---
