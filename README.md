@@ -3,22 +3,29 @@
 </div>
 
 <p align="center">
-  [cite_start]I'm a Master's student in Artificial Intelligence at the <b>State University of New York at Buffalo</b>, passionate about building intelligent systems that solve real-world problems. [cite_start]My experience spans from enhancing diagnostic accuracy in healthcare with predictive models  [cite_start]to automating financial document processing using advanced OCR.
+  [cite_start]I'm a Master's student in Artificial Intelligence at the <b>State University of New York at Buffalo</b>, passionate about building intelligent systems that solve real-world problems. [cite_start]My experience spans from enhancing diagnostic accuracy in healthcare with predictive models to automating financial document processing using advanced OCR.
 </p>
 
 <p align="center">
   <a href="mailto:shivanshu985@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="LINK_TO_YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00BFFF&style=flat-square" alt="Profile Visitor Counter"/>
 </p>
 
 ---
 
-### 📊 My GitHub Stats & Activity
+### 📊 My GitHub Stats & Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&icon_color=00BFFF&hide_border=true&count_private=true" alt="Shivanshu's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&icon_color=00BFFF&hide_border=true&count_private=true" alt="Shivanshu's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <div align="center">
@@ -33,13 +40,13 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Cheque Automation (CheckSmart)</h3>
-      [cite_start]<p>Led a team to develop an automated system to extract information from over 3,600 Indian cheque images. [cite_start]The modular OCR pipeline used field-specific TrOCR models and <b>reduced manual data entry by 80%</b>.</p>
+      <p>Led a two-member team to develop an automated system to extract information from over 3,600 Indian cheque images. The modular OCR pipeline used field-specific TrOCR models and <b>reduced manual data entry by 80%</b>.</p>
       <p><b>Technologies:</b> PyTorch, TrOCR, Huggingface, OpenCV, Data Augmentation</p>
       <a href="LINK_TO_YOUR_REPO_HERE" target="_blank">➡️ View on GitHub</a>
     </td>
     <td width="50%" valign="top">
       <h3>AI-Powered Handwriting-to-Text Converter</h3>
-      [cite_start]<p>Developed a sentence-level handwriting recognition system from scratch using a custom Convolutional Recurrent Neural Network (CRNN). [cite_start]The model combines a 3-layer CNN and a 2-layer bidirectional LSTM trained with CTC loss.</p>
+      <p>Developed a sentence-level handwriting recognition system from scratch using a custom Convolutional Recurrent Neural Network (CRNN). The model combines a 3-layer CNN and a 2-layer bidirectional LSTM trained with CTC loss.</p>
       <p><b>Technologies:</b> TensorFlow, Keras, CNN, RNN (LSTM), CTC Loss, OpenCV</p>
       <a href="LINK_TO_YOUR_REPO_HERE" target="_blank">➡️ View on GitHub</a>
     </td>
@@ -47,7 +54,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>High-Speed License Plate Reading</h3>
-      [cite_start]<p>Formulated a License Plate Recognition (LPR) system with a processing velocity of <b>1,100 plates per hour</b> and a <b>94.2% accuracy rate</b>, which was the most accurate on the team.</p>
+      <p>Formulated a License Plate Recognition (LPR) system with a processing velocity of <b>1,100 plates per hour</b> and a <b>94.2% accuracy rate</b> , which was the most accurate on the team.</p>
       <p><b>Technologies:</b> Computer Vision, Object Detection, OCR, Python, OpenCV</p>
       <a href="LINK_TO_YOUR_REPO_HERE" target="_blank">➡️ View on GitHub</a>
     </td>
