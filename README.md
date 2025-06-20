@@ -43,7 +43,7 @@
       <h3 align="center">Cheque Automation (CheckSmart)</h3>
       <br />
       <a href="LINK_TO_YOUR_REPO_HERE_1">
-        <img src="LINK_TO_YOUR_PROJECT_IMAGE_OR_GIF_1" alt="Cheque Automation Project" width="100%">
+        <img src="https://github.com/shivanshu2109/shivanshu2109/blob/main/images/check45.jpg" alt="Cheque Automation Project" width="100%">
       </a>
       <br />
       <p>An automated system to extract information from 3,600+ cheque images, using a modular OCR pipeline that <b>reduced manual data entry by 80%</b>.</p>
