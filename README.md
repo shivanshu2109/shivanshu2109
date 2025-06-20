@@ -30,7 +30,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=shivanshu2109" alt="snake" />
-  <h1><em>A little reminder of how laziness can kill determination, just like the snake.</em></h1>
+  <h3><em>A little reminder of how laziness can kill determination, just like the snake.</em></h3>
 </div>
 
 ---
@@ -40,30 +40,62 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Cheque Automation (CheckSmart)</h3>
-      <p>Led a two-member team to develop an automated system to extract information from over 3,600 Indian cheque images. The modular OCR pipeline used field-specific TrOCR models and <b>reduced manual data entry by 80%</b>.</p>
-      <p><b>Technologies:</b> PyTorch, TrOCR, Huggingface, OpenCV, Data Augmentation</p>
-      <a href="LINK_TO_YOUR_REPO_HERE" target="_blank">➡️ View on GitHub</a>
+      <h3 align="center">Cheque Automation (CheckSmart)</h3>
+      <br />
+      <a href="LINK_TO_YOUR_REPO_HERE_1">
+        <img src="LINK_TO_YOUR_PROJECT_IMAGE_OR_GIF_1" alt="Cheque Automation Project" width="100%">
+      </a>
+      <br />
+      <p>An automated system to extract information from 3,600+ cheque images, using a modular OCR pipeline that <b>reduced manual data entry by 80%</b>.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>AI-Powered Handwriting-to-Text Converter</h3>
-      <p>Developed a sentence-level handwriting recognition system from scratch using a custom Convolutional Recurrent Neural Network (CRNN). The model combines a 3-layer CNN and a 2-layer bidirectional LSTM trained with CTC loss.</p>
-      <p><b>Technologies:</b> TensorFlow, Keras, CNN, RNN (LSTM), CTC Loss, OpenCV</p>
-      <a href="LINK_TO_YOUR_REPO_HERE" target="_blank">➡️ View on GitHub</a>
+      <h3 align="center">AI Handwriting-to-Text Converter</h3>
+      <br />
+      <a href="LINK_TO_YOUR_REPO_HERE_2">
+        <img src="LINK_TO_YOUR_PROJECT_IMAGE_OR_GIF_2" alt="Handwriting Converter Project" width="100%">
+      </a>
+      <br />
+      <p>A sentence-level handwriting recognizer built with a custom Convolutional Recurrent Neural Network (CRNN) and trained with CTC loss.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+        <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+        <img src="https://img.shields.io/badge/LSTM-4CAF50?style=for-the-badge" alt="LSTM"/>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>High-Speed License Plate Reading</h3>
-      <p>Formulated a License Plate Recognition (LPR) system with a processing velocity of <b>1,100 plates per hour</b> and a <b>94.2% accuracy rate</b>.</p>
-      <p><b>Technologies:</b> Computer Vision, Object Detection, OCR, Python, OpenCV</p>
-      <a href="LINK_TO_YOUR_REPO_HERE" target="_blank">➡️ View on GitHub</a>
+      <h3 align="center">High-Speed License Plate Reading</h3>
+      <br />
+      <a href="LINK_TO_YOUR_REPO_HERE_3">
+        <img src="LINK_TO_YOUR_PROJECT_IMAGE_OR_GIF_3" alt="License Plate Reader Project" width="100%">
+      </a>
+      <br />
+      <p>A License Plate Recognition (LPR) system capable of processing <b>1,100 plates per hour</b> with an impressive <b>94.2% accuracy rate</b>.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" alt="Computer Vision"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Predictive Health Diagnosis Model</h3>
-      <p>As Technical Lead, I engineered a model using patient data that <b>decreased false positive diagnosis alerts by 15%</b>, enabling earlier intervention for nearly 500 patients in its first quarter.</p>
-      <p><b>Technologies:</b> Scikit-learn, Pandas, Python, Anomaly Detection, Model Optimization</p>
-      <a href="LINK_TO_YOUR_REPO_HERE" target="_blank">➡️ View on GitHub</a>
+      <h3 align="center">Predictive Health Diagnosis Model</h3>
+      <br />
+      <a href="LINK_TO_YOUR_REPO_HERE_4">
+        <img src="LINK_TO_YOUR_PROJECT_IMAGE_OR_GIF_4" alt="Health Diagnosis Project" width="100%">
+      </a>
+      <br />
+      <p>A predictive model using patient data that <b>decreased false positive diagnosis alerts by 15%</b>, enabling earlier intervention for patients.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      </p>
     </td>
   </tr>
 </table>
