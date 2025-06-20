@@ -30,7 +30,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=shivanshu2109" alt="snake" />
-  <h3><em>A little reminder of how laziness can kill determination, just like the snake.</em></h3>
+  <h2><em>A little reminder of how laziness can kill determination, just like the snake.</em></h2>
 </div>
 
 ---
@@ -42,29 +42,25 @@
     <td width="50%" valign="top">
       <h3 align="center">Cheque Automation (CheckSmart)</h3>
       <br />
-      <a href="LINK_TO_YOUR_REPO_HERE_1">
-        <img src="https://github.com/shivanshu2109/shivanshu2109/blob/main/images/check45.jpg" alt="Cheque Automation Project" width="100%">
-      </a>
+      <img src="LINK_TO_YOUR_PROJECT_IMAGE_OR_GIF_1" alt="Cheque Automation Project" width="100%">
       <br />
       <p>An automated system to extract information from 3,600+ cheque images, using a modular OCR pipeline that <b>reduced manual data entry by 80%</b>.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-        <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+        <a href="LINK_TO_YOUR_REPO_HERE_1">
+          <img src="https://img.shields.io/badge/Repo_Link-00BFFF?style=for-the-badge&logo=github&logoColor=white&animation=pulse" alt="Repo Link"/>
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">AI Handwriting-to-Text Converter</h3>
       <br />
-      <a href="LINK_TO_YOUR_REPO_HERE_2">
-        <img src="LINK_TO_YOUR_PROJECT_IMAGE_OR_GIF_2" alt="Handwriting Converter Project" width="100%">
-      </a>
+      <img src="LINK_TO_YOUR_PROJECT_IMAGE_OR_GIF_2" alt="Handwriting Converter Project" width="100%">
       <br />
       <p>A sentence-level handwriting recognizer built with a custom Convolutional Recurrent Neural Network (CRNN) and trained with CTC loss.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-        <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-        <img src="https://img.shields.io/badge/LSTM-4CAF50?style=for-the-badge" alt="LSTM"/>
+        <a href="LINK_TO_YOUR_REPO_HERE_2">
+          <img src="https://img.shields.io/badge/Repo_Link-00BFFF?style=for-the-badge&logo=github&logoColor=white&animation=pulse" alt="Repo Link"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -72,29 +68,25 @@
     <td width="50%" valign="top">
       <h3 align="center">High-Speed License Plate Reading</h3>
       <br />
-      <a href="LINK_TO_YOUR_REPO_HERE_3">
-        <img src="LINK_TO_YOUR_PROJECT_IMAGE_OR_GIF_3" alt="License Plate Reader Project" width="100%">
-      </a>
+      <img src="LINK_TO_YOUR_PROJECT_IMAGE_OR_GIF_3" alt="License Plate Reader Project" width="100%">
       <br />
       <p>A License Plate Recognition (LPR) system capable of processing <b>1,100 plates per hour</b> with an impressive <b>94.2% accuracy rate</b>.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" alt="Computer Vision"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+        <a href="LINK_TO_YOUR_REPO_HERE_3">
+          <img src="https://img.shields.io/badge/Repo_Link-00BFFF?style=for-the-badge&logo=github&logoColor=white&animation=pulse" alt="Repo Link"/>
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Predictive Health Diagnosis Model</h3>
       <br />
-      <a href="LINK_TO_YOUR_REPO_HERE_4">
-        <img src="LINK_TO_YOUR_PROJECT_IMAGE_OR_GIF_4" alt="Health Diagnosis Project" width="100%">
-      </a>
+      <img src="LINK_TO_YOUR_PROJECT_IMAGE_OR_GIF_4" alt="Health Diagnosis Project" width="100%">
       <br />
       <p>A predictive model using patient data that <b>decreased false positive diagnosis alerts by 15%</b>, enabling earlier intervention for patients.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <a href="LINK_TO_YOUR_REPO_HERE_4">
+          <img src="https://img.shields.io/badge/Repo_Link-00BFFF?style=for-the-badge&logo=github&logoColor=white&animation=pulse" alt="Repo Link"/>
+        </a>
       </p>
     </td>
   </tr>
