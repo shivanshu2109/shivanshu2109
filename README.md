@@ -3,6 +3,15 @@
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivanshu2109&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivanshu2109&theme=tokyonight" alt="streak"/>
+</p>
+
+---
+
 🔍 I'm passionate about solving real-world problems using AI and deep learning.
 
 🧠 My expertise lies in:
@@ -43,7 +52,6 @@ I'm always open to connecting over:
 ### 📫 How to Reach Me
 
 - Email: [shivanshu985@gmail.com](mailto:shivanshu985@gmail.com)  
-- Portfolio: *Coming Soon*  
 - LinkedIn: [shivanshu-mishra](https://www.linkedin.com/in/shivanshu-mishra-2435032a9/)  
 - GitHub: [shivanshu2109](https://github.com/shivanshu2109)
 
@@ -64,14 +72,4 @@ I'm always open to connecting over:
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanshu2109&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivanshu2109&theme=tokyonight" alt="streak"/>
-</p>
-
----
-
 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
