@@ -28,6 +28,22 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu2109&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
+### ⚡ Daily Coding Practice
+<p align="center">
+  I believe in consistent practice. Every day, I solve a new LeetCode problem and push my solution to my Data Structures & Algorithms repository.
+<p align="center">
+    <a href="https://github.com/shivanshu2109/DSA">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivanshu2109&repo=DSA&theme=tokyonight&hide_border=true&icon_color=00BFFF" alt="DSA Repo Stats"/>
+    </a>
+</p>
+  <br>
+<p align="center">
+    <a href="https://github.com/shivanshu2109">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanshu2109&bg_color=1a1b27&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+    </a>
+  </p>
+</p>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=shivanshu2109" alt="snake" />
   <h2><em>A little reminder of how laziness can kill determination, just like the snake.</em></h2>
