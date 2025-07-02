@@ -36,8 +36,8 @@ I believe in consistent practice. Every day, I solve a new LeetCode problem and 
 ### 🚀 Featured Projects
 
 **1. Cheque Automation (CheckSmart)**  
-A system that extracts information from 3,600+ cheque images using a modular OCR pipeline — reduced manual data entry by 80%.  
-[GitHub Repo](LINK_TO_YOUR_REPO_HERE_1)
+A system that extracts information from 3,600+ cheque images using a modular OCR pipeline.  
+[GitHub Repo](https://github.com/shivanshu2109/CheckSmart.git)
 
 **2. AI Handwriting-to-Text Converter**  
 A sentence-level handwriting recognizer built using a custom CRNN model trained with CTC loss.  
